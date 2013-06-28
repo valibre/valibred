@@ -1,4 +1,4 @@
-valaunchd
+valibred
 =========
 
 VaLibre service launcher
